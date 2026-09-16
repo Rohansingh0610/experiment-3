@@ -1,7 +1,5 @@
 # Full Stack Development - II: Experiment 3
 
-**Academic Year:** 2025–2026  
-**Subject Code:** FS-II  
 **Repository:** `experiment-3`
 
 This repository contains the complete, production-grade implementations for **Experiment 3** of the Full Stack Development - II curriculum.
